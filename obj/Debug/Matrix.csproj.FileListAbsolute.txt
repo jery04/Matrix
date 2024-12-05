@@ -1,0 +1,28 @@
+C:\Users\JEDY\Desktop\Jery's Projects\Others\Matrix\bin\Debug\Matrix.exe.config
+C:\Users\JEDY\Desktop\Jery's Projects\Others\Matrix\bin\Debug\Matrix.exe
+C:\Users\JEDY\Desktop\Jery's Projects\Others\Matrix\bin\Debug\Matrix.pdb
+C:\Users\JEDY\Desktop\Jery's Projects\Others\Matrix\obj\Debug\Matrix.csprojAssemblyReference.cache
+C:\Users\JEDY\Desktop\Jery's Projects\Others\Matrix\obj\Debug\Matrix.csproj.CoreCompileInputs.cache
+C:\Users\JEDY\Desktop\Jery's Projects\Others\Matrix\obj\Debug\Matrix.exe
+C:\Users\JEDY\Desktop\Jery's Projects\Others\Matrix\obj\Debug\Matrix.pdb
+C:\Users\JEDY\Desktop\Jery's Projects\Others\Matrices\Matrix\bin\Debug\Matrix.exe.config
+C:\Users\JEDY\Desktop\Jery's Projects\Others\Matrices\Matrix\bin\Debug\Matrix.exe
+C:\Users\JEDY\Desktop\Jery's Projects\Others\Matrices\Matrix\bin\Debug\Matrix.pdb
+C:\Users\JEDY\Desktop\Jery's Projects\Others\Matrices\Matrix\obj\Debug\Matrix.csprojAssemblyReference.cache
+C:\Users\JEDY\Desktop\Jery's Projects\Others\Matrices\Matrix\obj\Debug\Matrix.csproj.CoreCompileInputs.cache
+C:\Users\JEDY\Desktop\Jery's Projects\Others\Matrices\Matrix\obj\Debug\Matrix.exe
+C:\Users\JEDY\Desktop\Jery's Projects\Others\Matrices\Matrix\obj\Debug\Matrix.pdb
+D:\Ing. Informática\00CIBERNETICA\Jery's Projects\Others\Matrices\Matrix\bin\Debug\Matrix.exe.config
+D:\Ing. Informática\00CIBERNETICA\Jery's Projects\Others\Matrices\Matrix\bin\Debug\Matrix.exe
+D:\Ing. Informática\00CIBERNETICA\Jery's Projects\Others\Matrices\Matrix\bin\Debug\Matrix.pdb
+D:\Ing. Informática\00CIBERNETICA\Jery's Projects\Others\Matrices\Matrix\obj\Debug\Matrix.csprojAssemblyReference.cache
+D:\Ing. Informática\00CIBERNETICA\Jery's Projects\Others\Matrices\Matrix\obj\Debug\Matrix.csproj.CoreCompileInputs.cache
+D:\Ing. Informática\00CIBERNETICA\Jery's Projects\Others\Matrices\Matrix\obj\Debug\Matrix.exe
+D:\Ing. Informática\00CIBERNETICA\Jery's Projects\Others\Matrices\Matrix\obj\Debug\Matrix.pdb
+D:\Cibernética\Jery's Projects\Others\Matrices\Matrix\bin\Debug\Matrix.exe.config
+D:\Cibernética\Jery's Projects\Others\Matrices\Matrix\bin\Debug\Matrix.exe
+D:\Cibernética\Jery's Projects\Others\Matrices\Matrix\bin\Debug\Matrix.pdb
+D:\Cibernética\Jery's Projects\Others\Matrices\Matrix\obj\Debug\Matrix.csproj.AssemblyReference.cache
+D:\Cibernética\Jery's Projects\Others\Matrices\Matrix\obj\Debug\Matrix.csproj.CoreCompileInputs.cache
+D:\Cibernética\Jery's Projects\Others\Matrices\Matrix\obj\Debug\Matrix.exe
+D:\Cibernética\Jery's Projects\Others\Matrices\Matrix\obj\Debug\Matrix.pdb
